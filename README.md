@@ -11,11 +11,9 @@ design-patterns
 │   └───pattern1
 │       └───lang1
 │            └─── ...
-│            └─── README.md
 │   └───pattern2
 │       └───lang1
 │            └─── ...
-│            └─── README.md
 └───structural
 │   └─── ...
 └───behavioral
